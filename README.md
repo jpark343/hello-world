@@ -1,2 +1,2 @@
 # hello-world
-My first repository. 
+I am doing a homework assignment for CSCI 187. My first repository. 
